@@ -44,12 +44,6 @@ The system connects environmental sensors to a low-power microcontroller running
 
 ---
 
-## 📽 Demonstration Video
-
-[▶ Watch Demo Video](docs/demo-video.mp4) *(or link to hosted version on Vimeo/YouTube)*
-
----
-
 ## 🔐 Security Notes
 
 - This public repository contains **no functional source code**.
