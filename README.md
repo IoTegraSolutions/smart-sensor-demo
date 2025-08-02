@@ -2,7 +2,7 @@
 
 A demonstration of a **complete IoT workflow** from ultra low-power sensor hardware, through secure cloud messaging, to a live, interactive web-based dashboard.
 
-> **Note:** This is a **demonstration portfolio** version of a production system developed by IoTegraSolutions. It omits proprietary implementation details, hardware specifics, and source code.
+> **Note:** This is a **demonstration portfolio** version of a production system developed by IoTegraSolutions LLC. It omits proprietary implementation details, hardware specifics, and source code.
 
 ---
 
