@@ -60,5 +60,5 @@ The system connects environmental sensors to a low-power microcontroller running
 
 ## 📜 License
 
-Content © 2025 IoTegra Solutions. All rights reserved.  
+Content © 2025 IoTegraSolutions LLC. All rights reserved.  
 This demonstration material is provided for portfolio purposes only and may not be used for production deployment.
